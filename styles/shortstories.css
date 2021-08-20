@@ -1,35 +1,30 @@
 body {
-    font-family: "Open Sans";
+    font-family: "Courier New";
     background: #2c3e50;
     color: #ecf0f1;
+    margin: 0 px;
 }
 
 a {
-    position: fixed;
-    bottom:0;
-    display: block;
-    background-color: #000000;
+    overflow-x: hidden;
     color: #bdbdbd;
-    padding: 10px;
-    text-align: right;
 }
 
-.block {
+div.bottom_bar {
+    display: block;
+    overflow-x: hidden;
     background-color: #000000;
-    color: white;
-    border: none;
-    text-align: right;
     width: 100%;
     position: fixed;
-    bottom: 0;
-    padding: 0px;
-    margin-right: 20 px;
+    bottom:0;
+    padding: 10px;
+    margin-left: -20px;
+    text-align: right;
 }
 
 div.scroll {
     background-color: #bdbdbd;
-    overflow-x: hidden;
-    overflow-y: auto;
+    height:100%;
     text-align: left;
     padding: 10 px;
 }
