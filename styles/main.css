@@ -4,6 +4,10 @@ body {
     color: #ecf0f1;
 }
 
+a {
+    color: #bdbdbd;
+}
+
 div.scroll {
     background-color: white;
     overflow-x: hidden;
