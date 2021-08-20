@@ -9,9 +9,9 @@ a {
 }
 
 div.scroll {
-    background-color: white;
+    background-color: #bdbdbd;
     overflow-x: hidden;
     overflow-y: auto;
-    text-align: center;
+    text-align: left;
     padding: 10 px;
 }
