@@ -20,10 +20,3 @@ div.bottom_bar {
     margin-left: -20px;
     text-align: right;
 }
-
-div.scroll {
-    background-color: #bdbdbd;
-    height:100%;
-    text-align: left;
-    padding: 10 px;
-}
