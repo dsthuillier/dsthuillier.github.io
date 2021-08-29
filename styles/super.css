@@ -1,0 +1,32 @@
+body {
+    font-family: "Palatino Linotype", "Times New Roman", serif;
+    background: #2c3e50;
+    color: #ecf0f1;
+}
+
+a {
+    color: #bdbdbd;
+}
+
+/*
+    Styles for lists links
+*/
+
+li > a:link {
+    text-decoration: none;
+}
+
+li > a:hover {
+    font-size: 110%;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
+
+div.bottom_bar {
+    background-color: #000000;
+    position: fixed;
+    bottom:0;
+    text-align: right;
+}

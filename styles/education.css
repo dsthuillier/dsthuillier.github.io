@@ -1,14 +1,3 @@
-body {
-    font-family: "Courier New";
-    background: #2c3e50;
-    color: #ecf0f1;
-    margin: 0 px;
-}
-
-a {
-    color: #bdbdbd;
-}
-
 div.bottom_bar {
     display: block;
     overflow-x: hidden;
@@ -19,11 +8,4 @@ div.bottom_bar {
     padding: 10px;
     margin-left: -20px;
     text-align: right;
-}
-
-div.scroll {
-    background-color: #bdbdbd;
-    height:100%;
-    text-align: left;
-    padding: 10 px;
 }

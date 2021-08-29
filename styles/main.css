@@ -1,25 +1,22 @@
-body {
-    font-family: "Open Sans";
-    background: #2c3e50;
-    color: #ecf0f1;
-}
-
-a {
-    color: #bdbdbd;
-}
-
-div.scroll {
-    background-color: white;
-    overflow-x: hidden;
-    overflow-y: auto;
+h1 {
     text-align: center;
-    padding: 10 px;
+    font-size: 45px;
+}
+
+/*
+    Styles for lists
+*/
+
+ul {
+    list-style: none;
+    padding-left: 0;
 }
 
 figure {
     display: inline-block;
     text-align: center;
 }
+
 figure img {
     vertical-align: top;
 }
