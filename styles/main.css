@@ -1,7 +1,3 @@
-h1 {
-    text-align: center;
-    font-size: 45px;
-}
 
 /*
     Styles for lists
@@ -23,4 +19,12 @@ figure img {
 
 figure figcaption {
     text-align: center;
+}
+
+#theremin_fig {
+    float: right;
+}
+
+#contents {
+    float: left;
 }
